@@ -1,4 +1,3 @@
 /build/*
 !/build/libbmp_class.so
-/CMakeLists.txt
 /.vscode/*
